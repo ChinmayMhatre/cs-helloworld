@@ -1,0 +1,16 @@
+D:\Personal\Coding\dotnet\MyApp\bin\Debug\net5.0\MyApp.exe
+D:\Personal\Coding\dotnet\MyApp\bin\Debug\net5.0\MyApp.deps.json
+D:\Personal\Coding\dotnet\MyApp\bin\Debug\net5.0\MyApp.runtimeconfig.json
+D:\Personal\Coding\dotnet\MyApp\bin\Debug\net5.0\MyApp.runtimeconfig.dev.json
+D:\Personal\Coding\dotnet\MyApp\bin\Debug\net5.0\MyApp.dll
+D:\Personal\Coding\dotnet\MyApp\bin\Debug\net5.0\ref\MyApp.dll
+D:\Personal\Coding\dotnet\MyApp\bin\Debug\net5.0\MyApp.pdb
+D:\Personal\Coding\dotnet\MyApp\obj\Debug\net5.0\MyApp.csprojAssemblyReference.cache
+D:\Personal\Coding\dotnet\MyApp\obj\Debug\net5.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Coding\dotnet\MyApp\obj\Debug\net5.0\MyApp.AssemblyInfoInputs.cache
+D:\Personal\Coding\dotnet\MyApp\obj\Debug\net5.0\MyApp.AssemblyInfo.cs
+D:\Personal\Coding\dotnet\MyApp\obj\Debug\net5.0\MyApp.csproj.CoreCompileInputs.cache
+D:\Personal\Coding\dotnet\MyApp\obj\Debug\net5.0\MyApp.dll
+D:\Personal\Coding\dotnet\MyApp\obj\Debug\net5.0\ref\MyApp.dll
+D:\Personal\Coding\dotnet\MyApp\obj\Debug\net5.0\MyApp.pdb
+D:\Personal\Coding\dotnet\MyApp\obj\Debug\net5.0\MyApp.genruntimeconfig.cache
